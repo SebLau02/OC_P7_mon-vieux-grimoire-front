@@ -1,5 +1,5 @@
 // const API_URL = 'http://localhost:4000';
-const API_URL = 'https://oc-7-mon-vieux-grimoire-phi.vercel.app/';
+const API_URL = 'https://oc-7-mon-vieux-grimoire-phi.vercel.app';
 
 export const API_ROUTES = {
   SIGN_UP: `${API_URL}/api/auth/signup`,
